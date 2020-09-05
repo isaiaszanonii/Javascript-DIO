@@ -1,7 +1,7 @@
 var lista  = [nome: “rosa” , “cravo” , “tulipa”, “margarida”]
 console.log(lista[2]);
 
-/*
+/* -
 
 var d = new Date();
 console.log("Hoje é " + d.getDate() + "/" + (d.getMonth()+1));
